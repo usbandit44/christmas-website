@@ -1,4 +1,3 @@
-import React from "react";
 import "./list.css";
 import ListItem from "./ListItem";
 
